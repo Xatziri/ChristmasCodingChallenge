@@ -1,5 +1,6 @@
 # ChristmasCodingChallenge
 This Repository contains daily challenges leading to Christmas Day and is part of the  WWCode London Christmas Coding Challenge.
+Day 1-5 are challenges from www.hackerrank.com
 
 Rules of the WWCode London Christmas Coding Challenge:
 
