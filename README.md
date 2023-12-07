@@ -3,6 +3,8 @@ This Repository contains daily challenges leading to Christmas Day and is part o
 
 
 Day 1-5 are challenges from www.hackerrank.com
+Day 6 is for my Network Security course
+Day 7 is a challenge from www.hackerrank.com
 
 Rules of the WWCode London Christmas Coding Challenge:
 
