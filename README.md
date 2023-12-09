@@ -25,7 +25,8 @@ This Repository contains daily challenges leading to Christmas Day and is part o
 -9: BinaryCalculator(Javascript)
 
 
-Rules of the WWCode London Christmas Coding Challenge:
+
+### Rules of the WWCode London Christmas Coding Challenge:
 
 Code for minimum an hour a day.
 Every your day of coding, submit your work on the GitHub / GitLab. 
