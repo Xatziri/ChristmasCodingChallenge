@@ -2,7 +2,7 @@
 This Repository contains daily challenges leading to Christmas Day and is part of the  WWCode London Christmas Coding Challenge.
 
 
-##Day 1-5 are challenges from www.hackerrank.com
+## Day 1-5 are challenges from www.hackerrank.com
 
 -1: HelloWorld!(Java)
 
@@ -14,9 +14,9 @@ This Repository contains daily challenges leading to Christmas Day and is part o
 
 -5: Functions(Javascript)
 
-##Day 6 is for my Network Security course(SSL/TLS based Secure Info Collection Server and Client)
+## Day 6 is for my Network Security course(SSL/TLS based Secure Info Collection Server and Client)
 
-##Day 7-9 is a challenge from www.hackerrank.com
+## Day 7-9 is a challenge from www.hackerrank.com
 
 -7: CreateAButton(Javascript)
 
