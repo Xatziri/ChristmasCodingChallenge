@@ -16,7 +16,7 @@ This Repository contains daily challenges leading to Christmas Day and is part o
 
 ## Day 6 is for my Network Security course(SSL/TLS based Secure Info Collection Server and Client)
 
-## Day 7-11 is a challenge from www.hackerrank.com
+## Day 7-11 are challenges from www.hackerrank.com
 
 -7: CreateAButton(Javascript)
 
