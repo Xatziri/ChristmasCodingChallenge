@@ -16,17 +16,21 @@ This Repository contains daily challenges leading to Christmas Day and is part o
 
 ## Day 6 is for my Network Security course(SSL/TLS based Secure Info Collection Server and Client)
 
-## Day 7-11 are challenges from www.hackerrank.com
+## Day 7-13 are challenges from www.hackerrank.com
 
--7: CreateAButton(Javascript)
+-7: Create A Button(Javascript)
 
--8: ButtonsContainer(Javascript)
+-8: Buttons Container(Javascript)
 
--9: BinaryCalculator(Javascript)
+-9: Binary Calculator(Javascript)
 
--10: Intro to conditional statements(Python)
+-10: Intro to Conditional Statements(Python)
 
--11: Create a rectangle object(Javascript)
+-11: Create a Rectangle Object(Javascript)
+
+-12: Arrow functions(Javascript)
+
+-13: Arithmetic Operations(Bash)
 
 
 
