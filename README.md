@@ -30,7 +30,7 @@ This Repository contains daily challenges leading to Christmas Day and is part o
 
 -12: Arrow functions(Javascript)
 
--13: Arithmetic Operations(Bash)
+-13: Arithmetic Operations(Shell)
 
 
 
