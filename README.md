@@ -32,6 +32,8 @@ This Repository contains daily challenges leading to Christmas Day and is part o
 
 -13: Arithmetic Operations(Shell)
 
+-14: Compute the average(Shell)
+
 
 
 ### Rules of the WWCode London Christmas Coding Challenge:
