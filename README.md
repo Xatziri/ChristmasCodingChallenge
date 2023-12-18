@@ -16,7 +16,7 @@ This Repository contains daily challenges leading to Christmas Day and is part o
 
 ## Day 6 is for my Network Security course(SSL/TLS based Secure Info Collection Server and Client)
 
-## Day 7-13 are challenges from www.hackerrank.com
+## Day 7-17 are challenges from www.hackerrank.com
 
 -7: Create A Button(Javascript)
 
@@ -33,6 +33,12 @@ This Repository contains daily challenges leading to Christmas Day and is part o
 -13: Arithmetic Operations(Shell)
 
 -14: Compute the average(Shell)
+
+-15: Java SHA-256(Java)
+
+-16: Java Regex(Java)
+
+-17: Java RegEx 2 - Duplicate Words(Java)
 
 
 
