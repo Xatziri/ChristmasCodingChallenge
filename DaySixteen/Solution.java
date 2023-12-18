@@ -16,6 +16,7 @@ class Solution{
 }
 class MyRegex{
     //Write your code here
+    //Regular expression for an IP address
     String pattern =
             "^([01]?\\d\\d?|2[0-4]\\d|25[0-5])\\." +
             "([01]?\\d\\d?|2[0-4]\\d|25[0-5])\\." +
