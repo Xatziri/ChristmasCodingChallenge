@@ -42,6 +42,8 @@ This Repository contains daily challenges leading to Christmas Day and is part o
 
 -18: Java RegEx 2 - Duplicate Words(Java)
 
+-19: Write a function(Python)
+
 
 
 ### Rules of the WWCode London Christmas Coding Challenge:
