@@ -48,6 +48,12 @@ This Repository contains daily challenges leading to Christmas Day and is part o
 
 -21: Debugging(C++)
 
+-22: Maximize it!(Python)
+
+-23: Validating Postal Codes(Pyhton)
+
+-24: The Minion Game(Python)
+
 
 
 ### Rules of the WWCode London Christmas Coding Challenge:
