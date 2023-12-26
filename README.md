@@ -16,7 +16,7 @@ This Repository contains daily challenges leading to Christmas Day and is part o
 
 ## Day 6 is for my Network Security course(SSL/TLS based Secure Info Collection Server and Client)
 
-## Day 7-24 are challenges from www.hackerrank.com
+## Day 7-25 are challenges from www.hackerrank.com
 
 -7: Create A Button(Javascript)
 
@@ -53,6 +53,9 @@ This Repository contains daily challenges leading to Christmas Day and is part o
 -23: Validating Postal Codes(Pyhton)
 
 -24: The Minion Game(Python)
+
+-25: Validating Credit Card Numbers(Python)
+
 
 
 
